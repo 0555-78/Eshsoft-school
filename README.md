@@ -1,1 +1,1 @@
-# Eshsoft-school
+# Eshsoft-school management system
